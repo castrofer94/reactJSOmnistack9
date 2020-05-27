@@ -47,3 +47,11 @@ ul.spot-list {
     margin-top: 10px;
     cursor: pointer;
   }
+
+  ul.notifications li button.accept {
+    color: #84c870
+  }
+
+  ul.notifications li button.reject {
+    color: #e55e5e
+  }
